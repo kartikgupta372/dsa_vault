@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/kartikgupta372/dsa_vault/tree/master/1109-corporate-flight-bookings) |
 | [1314-matrix-block-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1314-matrix-block-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartikgupta372/dsa_vault/tree/master/1552-magnetic-force-between-two-balls) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartikgupta372/dsa_vault/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartikgupta372/dsa_vault/tree/master/1552-magnetic-force-between-two-balls) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartikgupta372/dsa_vault/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0410-split-array-largest-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartikgupta372/dsa_vault/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Matrix
 |  |
 | ------- |
