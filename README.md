@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kartikgupta372/dsa_vault/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0713-subarray-product-less-than-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartikgupta372/dsa_vault/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartikgupta372/dsa_vault/tree/master/1552-magnetic-force-between-two-balls) |
@@ -149,9 +151,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
