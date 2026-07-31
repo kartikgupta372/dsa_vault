@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kartikgupta372/dsa_vault/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikgupta372/dsa_vault/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/kartikgupta372/dsa_vault/tree/master/1122-relative-sort-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikgupta372/dsa_vault/tree/master/0992-subarrays-with-k-different-integers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/kartikgupta372/dsa_vault/tree/master/1122-relative-sort-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartikgupta372/dsa_vault/tree/master/1552-magnetic-force-between-two-balls) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartikgupta372/dsa_vault/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kartikgupta372/dsa_vault/tree/master/0455-assign-cookies) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartikgupta372/dsa_vault/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0179-largest-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
