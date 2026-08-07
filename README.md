@@ -137,11 +137,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
 ## Backtracking
@@ -218,9 +220,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
