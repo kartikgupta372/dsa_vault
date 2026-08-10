@@ -254,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kartikgupta372/dsa_vault/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
