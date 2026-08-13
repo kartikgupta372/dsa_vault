@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikgupta372/dsa_vault/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikgupta372/dsa_vault/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikgupta372/dsa_vault/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
