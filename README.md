@@ -208,11 +208,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
+| [0901-online-stock-span](https://github.com/kartikgupta372/dsa_vault/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
+| [0901-online-stock-span](https://github.com/kartikgupta372/dsa_vault/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
 ## Ordered Set
 |  |
@@ -307,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kartikgupta372/dsa_vault/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kartikgupta372/dsa_vault/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
