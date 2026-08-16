@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kartikgupta372/dsa_vault/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/kartikgupta372/dsa_vault/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/kartikgupta372/dsa_vault/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/2487-remove-nodes-from-linked-list) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/kartikgupta372/dsa_vault/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/2487-remove-nodes-from-linked-list) |
