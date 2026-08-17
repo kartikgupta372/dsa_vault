@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1314-matrix-block-sum) |
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartikgupta372/dsa_vault/tree/master/1552-magnetic-force-between-two-balls) |
+| [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kartikgupta372/dsa_vault/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartikgupta372/dsa_vault/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kartikgupta372/dsa_vault/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kartikgupta372/dsa_vault/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kartikgupta372/dsa_vault/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kartikgupta372/dsa_vault/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikgupta372/dsa_vault/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kartikgupta372/dsa_vault/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kartikgupta372/dsa_vault/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
