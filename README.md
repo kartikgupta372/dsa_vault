@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kartikgupta372/dsa_vault/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/kartikgupta372/dsa_vault/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kartikgupta372/dsa_vault/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartikgupta372/dsa_vault/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kartikgupta372/dsa_vault/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0179-largest-number) |
+| [1927-sum-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kartikgupta372/dsa_vault/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/kartikgupta372/dsa_vault/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1927-sum-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kartikgupta372/dsa_vault/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikgupta372/dsa_vault/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikgupta372/dsa_vault/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kartikgupta372/dsa_vault/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kartikgupta372/dsa_vault/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
