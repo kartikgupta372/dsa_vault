@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/kartikgupta372/dsa_vault/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1872-stone-game-viii](https://github.com/kartikgupta372/dsa_vault/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kartikgupta372/dsa_vault/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartikgupta372/dsa_vault/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kartikgupta372/dsa_vault/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/kartikgupta372/dsa_vault/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/1140-stone-game-ii) |
 | [1314-matrix-block-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1314-matrix-block-sum) |
+| [1872-stone-game-viii](https://github.com/kartikgupta372/dsa_vault/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/kartikgupta372/dsa_vault/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kartikgupta372/dsa_vault/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kartikgupta372/dsa_vault/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/kartikgupta372/dsa_vault/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1872-stone-game-viii](https://github.com/kartikgupta372/dsa_vault/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kartikgupta372/dsa_vault/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikgupta372/dsa_vault/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kartikgupta372/dsa_vault/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kartikgupta372/dsa_vault/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kartikgupta372/dsa_vault/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -282,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kartikgupta372/dsa_vault/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kartikgupta372/dsa_vault/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kartikgupta372/dsa_vault/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -289,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kartikgupta372/dsa_vault/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kartikgupta372/dsa_vault/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kartikgupta372/dsa_vault/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
