@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/kartikgupta372/dsa_vault/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/kartikgupta372/dsa_vault/tree/master/0239-sliding-window-maximum) |
 | [0406-queue-reconstruction-by-height](https://github.com/kartikgupta372/dsa_vault/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0410-split-array-largest-sum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/kartikgupta372/dsa_vault/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
 | [1314-matrix-block-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1314-matrix-block-sum) |
 ## Two Pointers
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikgupta372/dsa_vault/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kartikgupta372/dsa_vault/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kartikgupta372/dsa_vault/tree/master/0547-number-of-provinces) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikgupta372/dsa_vault/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kartikgupta372/dsa_vault/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kartikgupta372/dsa_vault/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/kartikgupta372/dsa_vault/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kartikgupta372/dsa_vault/tree/master/0547-number-of-provinces) |
 ## Stack
 |  |
