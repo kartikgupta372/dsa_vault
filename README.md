@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kartikgupta372/dsa_vault/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikgupta372/dsa_vault/tree/master/0992-subarrays-with-k-different-integers) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartikgupta372/dsa_vault/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikgupta372/dsa_vault/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0179-largest-number) |
 | [1927-sum-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kartikgupta372/dsa_vault/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartikgupta372/dsa_vault/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3348-smallest-divisible-digit-product-ii) |
