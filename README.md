@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/kartikgupta372/dsa_vault/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/kartikgupta372/dsa_vault/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kartikgupta372/dsa_vault/tree/master/0322-coin-change) |
 | [0406-queue-reconstruction-by-height](https://github.com/kartikgupta372/dsa_vault/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0410-split-array-largest-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0713-subarray-product-less-than-k) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/kartikgupta372/dsa_vault/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/kartikgupta372/dsa_vault/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kartikgupta372/dsa_vault/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0435-non-overlapping-intervals) |
@@ -446,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
