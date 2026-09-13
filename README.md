@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/kartikgupta372/dsa_vault/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/kartikgupta372/dsa_vault/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kartikgupta372/dsa_vault/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kartikgupta372/dsa_vault/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/kartikgupta372/dsa_vault/tree/master/0835-image-overlap) |
 | [1314-matrix-block-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1314-matrix-block-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kartikgupta372/dsa_vault/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
