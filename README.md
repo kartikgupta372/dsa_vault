@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kartikgupta372/dsa_vault/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/kartikgupta372/dsa_vault/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/kartikgupta372/dsa_vault/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kartikgupta372/dsa_vault/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
@@ -473,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kartikgupta372/dsa_vault/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
