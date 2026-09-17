@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1314-matrix-block-sum) |
 | [1386-cinema-seat-allocation](https://github.com/kartikgupta372/dsa_vault/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartikgupta372/dsa_vault/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikgupta372/dsa_vault/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/kartikgupta372/dsa_vault/tree/master/1122-relative-sort-array) |
 | [1386-cinema-seat-allocation](https://github.com/kartikgupta372/dsa_vault/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikgupta372/dsa_vault/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartikgupta372/dsa_vault/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kartikgupta372/dsa_vault/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikgupta372/dsa_vault/tree/master/0992-subarrays-with-k-different-integers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartikgupta372/dsa_vault/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikgupta372/dsa_vault/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/kartikgupta372/dsa_vault/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0713-subarray-product-less-than-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartikgupta372/dsa_vault/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartikgupta372/dsa_vault/tree/master/1552-magnetic-force-between-two-balls) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kartikgupta372/dsa_vault/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/kartikgupta372/dsa_vault/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kartikgupta372/dsa_vault/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kartikgupta372/dsa_vault/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
