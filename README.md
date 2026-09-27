@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/kartikgupta372/dsa_vault/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kartikgupta372/dsa_vault/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/kartikgupta372/dsa_vault/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kartikgupta372/dsa_vault/tree/master/0322-coin-change) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kartikgupta372/dsa_vault/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/kartikgupta372/dsa_vault/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/kartikgupta372/dsa_vault/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kartikgupta372/dsa_vault/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0410-split-array-largest-sum) |
