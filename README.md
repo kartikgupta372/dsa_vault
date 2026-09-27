@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/kartikgupta372/dsa_vault/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/kartikgupta372/dsa_vault/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/kartikgupta372/dsa_vault/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kartikgupta372/dsa_vault/tree/master/0904-fruit-into-baskets) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kartikgupta372/dsa_vault/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/kartikgupta372/dsa_vault/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kartikgupta372/dsa_vault/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0940-distinct-subsequences-ii) |
