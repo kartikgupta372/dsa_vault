@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0940-distinct-subsequences-ii) |
 | [1049-last-stone-weight-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/kartikgupta372/dsa_vault/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/kartikgupta372/dsa_vault/tree/master/1406-stone-game-iii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kartikgupta372/dsa_vault/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0179-largest-number) |
 | [0940-distinct-subsequences-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0940-distinct-subsequences-ii) |
+| [1092-shortest-common-supersequence](https://github.com/kartikgupta372/dsa_vault/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kartikgupta372/dsa_vault/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/kartikgupta372/dsa_vault/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
