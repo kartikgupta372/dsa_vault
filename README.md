@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/kartikgupta372/dsa_vault/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/kartikgupta372/dsa_vault/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/kartikgupta372/dsa_vault/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/kartikgupta372/dsa_vault/tree/master/0198-house-robber) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kartikgupta372/dsa_vault/tree/master/0007-reverse-integer) |
+| [0096-unique-binary-search-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/kartikgupta372/dsa_vault/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/kartikgupta372/dsa_vault/tree/master/0836-rectangle-overlap) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0112-path-sum) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0112-path-sum) |
@@ -532,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kartikgupta372/dsa_vault/tree/master/0207-course-schedule) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
