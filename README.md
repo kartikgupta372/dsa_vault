@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kartikgupta372/dsa_vault/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/kartikgupta372/dsa_vault/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/kartikgupta372/dsa_vault/tree/master/0115-distinct-subsequences) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kartikgupta372/dsa_vault/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/kartikgupta372/dsa_vault/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/kartikgupta372/dsa_vault/tree/master/0115-distinct-subsequences) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kartikgupta372/dsa_vault/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/kartikgupta372/dsa_vault/tree/master/0078-subsets) |
@@ -540,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0096-unique-binary-search-trees) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kartikgupta372/dsa_vault/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
