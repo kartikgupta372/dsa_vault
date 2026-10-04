@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0047-permutations-ii) |
+| [0063-unique-paths-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/kartikgupta372/dsa_vault/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0128-longest-consecutive-sequence) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kartikgupta372/dsa_vault/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/kartikgupta372/dsa_vault/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/kartikgupta372/dsa_vault/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/kartikgupta372/dsa_vault/tree/master/0115-distinct-subsequences) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kartikgupta372/dsa_vault/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
