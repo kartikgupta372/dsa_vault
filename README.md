@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/kartikgupta372/dsa_vault/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikgupta372/dsa_vault/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/kartikgupta372/dsa_vault/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/kartikgupta372/dsa_vault/tree/master/0845-longest-mountain-in-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kartikgupta372/dsa_vault/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0509-fibonacci-number) |
+| [0741-cherry-pickup](https://github.com/kartikgupta372/dsa_vault/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikgupta372/dsa_vault/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/kartikgupta372/dsa_vault/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/kartikgupta372/dsa_vault/tree/master/0877-stone-game) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kartikgupta372/dsa_vault/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/kartikgupta372/dsa_vault/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/kartikgupta372/dsa_vault/tree/master/0835-image-overlap) |
 | [1314-matrix-block-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/1314-matrix-block-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kartikgupta372/dsa_vault/tree/master/3568-minimum-moves-to-clean-the-classroom) |
