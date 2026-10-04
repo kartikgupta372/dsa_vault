@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kartikgupta372/dsa_vault/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0063-unique-paths-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kartikgupta372/dsa_vault/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/kartikgupta372/dsa_vault/tree/master/0455-assign-cookies) |
 | [0845-longest-mountain-in-array](https://github.com/kartikgupta372/dsa_vault/tree/master/0845-longest-mountain-in-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
