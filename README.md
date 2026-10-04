@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kartikgupta372/dsa_vault/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/kartikgupta372/dsa_vault/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0179-largest-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/kartikgupta372/dsa_vault/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0435-non-overlapping-intervals) |
@@ -561,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kartikgupta372/dsa_vault/tree/master/0022-generate-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
