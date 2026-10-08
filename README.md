@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kartikgupta372/dsa_vault/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0179-largest-number) |
 | [0940-distinct-subsequences-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/kartikgupta372/dsa_vault/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/kartikgupta372/dsa_vault/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kartikgupta372/dsa_vault/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/kartikgupta372/dsa_vault/tree/master/1927-sum-game) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/kartikgupta372/dsa_vault/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/kartikgupta372/dsa_vault/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kartikgupta372/dsa_vault/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kartikgupta372/dsa_vault/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/kartikgupta372/dsa_vault/tree/master/1021-remove-outermost-parentheses) |
 ## Quicksort
 |  |
 | ------- |
