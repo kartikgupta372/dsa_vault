@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/kartikgupta372/dsa_vault/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/kartikgupta372/dsa_vault/tree/master/0904-fruit-into-baskets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/kartikgupta372/dsa_vault/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/kartikgupta372/dsa_vault/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kartikgupta372/dsa_vault/tree/master/0904-fruit-into-baskets) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kartikgupta372/dsa_vault/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/kartikgupta372/dsa_vault/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/kartikgupta372/dsa_vault/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/kartikgupta372/dsa_vault/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/kartikgupta372/dsa_vault/tree/master/0131-palindrome-partitioning) |
