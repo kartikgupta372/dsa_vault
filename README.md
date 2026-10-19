@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kartikgupta372/dsa_vault/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/kartikgupta372/dsa_vault/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/kartikgupta372/dsa_vault/tree/master/0931-minimum-falling-path-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/kartikgupta372/dsa_vault/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikgupta372/dsa_vault/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartikgupta372/dsa_vault/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/1049-last-stone-weight-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/kartikgupta372/dsa_vault/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kartikgupta372/dsa_vault/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/kartikgupta372/dsa_vault/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/kartikgupta372/dsa_vault/tree/master/1122-relative-sort-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartikgupta372/dsa_vault/tree/master/1552-magnetic-force-between-two-balls) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartikgupta372/dsa_vault/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikgupta372/dsa_vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/kartikgupta372/dsa_vault/tree/master/0455-assign-cookies) |
 | [0845-longest-mountain-in-array](https://github.com/kartikgupta372/dsa_vault/tree/master/0845-longest-mountain-in-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/kartikgupta372/dsa_vault/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kartikgupta372/dsa_vault/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting Sort
