@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/kartikgupta372/dsa_vault/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kartikgupta372/dsa_vault/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartikgupta372/dsa_vault/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0128-longest-consecutive-sequence) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kartikgupta372/dsa_vault/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/kartikgupta372/dsa_vault/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/kartikgupta372/dsa_vault/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kartikgupta372/dsa_vault/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/kartikgupta372/dsa_vault/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/kartikgupta372/dsa_vault/tree/master/0406-queue-reconstruction-by-height) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kartikgupta372/dsa_vault/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartikgupta372/dsa_vault/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/kartikgupta372/dsa_vault/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/kartikgupta372/dsa_vault/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikgupta372/dsa_vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/kartikgupta372/dsa_vault/tree/master/0455-assign-cookies) |
 | [0845-longest-mountain-in-array](https://github.com/kartikgupta372/dsa_vault/tree/master/0845-longest-mountain-in-array) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kartikgupta372/dsa_vault/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/kartikgupta372/dsa_vault/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -638,4 +642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kartikgupta372/dsa_vault/tree/master/0023-merge-k-sorted-lists) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kartikgupta372/dsa_vault/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
