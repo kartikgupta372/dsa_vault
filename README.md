@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kartikgupta372/dsa_vault/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/kartikgupta372/dsa_vault/tree/master/0841-keys-and-rooms) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikgupta372/dsa_vault/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kartikgupta372/dsa_vault/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikgupta372/dsa_vault/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kartikgupta372/dsa_vault/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikgupta372/dsa_vault/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Number Theory
 |  |
@@ -649,4 +652,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kartikgupta372/dsa_vault/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
