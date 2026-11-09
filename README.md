@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/kartikgupta372/dsa_vault/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikgupta372/dsa_vault/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikgupta372/dsa_vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/kartikgupta372/dsa_vault/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikgupta372/dsa_vault/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/kartikgupta372/dsa_vault/tree/master/1122-relative-sort-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kartikgupta372/dsa_vault/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikgupta372/dsa_vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/kartikgupta372/dsa_vault/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikgupta372/dsa_vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0845-longest-mountain-in-array](https://github.com/kartikgupta372/dsa_vault/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartikgupta372/dsa_vault/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikgupta372/dsa_vault/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kartikgupta372/dsa_vault/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikgupta372/dsa_vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/kartikgupta372/dsa_vault/tree/master/0841-keys-and-rooms) |
 | [0951-flip-equivalent-binary-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0951-flip-equivalent-binary-trees) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/kartikgupta372/dsa_vault/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/kartikgupta372/dsa_vault/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikgupta372/dsa_vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/kartikgupta372/dsa_vault/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/kartikgupta372/dsa_vault/tree/master/0841-keys-and-rooms) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kartikgupta372/dsa_vault/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikgupta372/dsa_vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0951-flip-equivalent-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikgupta372/dsa_vault/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -508,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikgupta372/dsa_vault/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikgupta372/dsa_vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0951-flip-equivalent-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikgupta372/dsa_vault/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Number Theory
@@ -619,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kartikgupta372/dsa_vault/tree/master/0096-unique-binary-search-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikgupta372/dsa_vault/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Bracket Sequences
 |  |
 | ------- |
